@@ -7,7 +7,7 @@ Welcome to Sementra, the ultimate Pterodactyl mining solution designed to to min
 - **Customization**: Tailor Sementra to your specific needs with customizable settings and configurations.
 - **Sementra Plus**: Upgrade to Sementra Plus for premium features and exclusive benefits.
 - **Add-ons**: Enhance your mining experience with a range of add-ons designed to streamline your operations.
-
+- **"Secretly" Running**: Software is pretended to be a Minecraft server, and you can actually play on it😂.
 ## Getting Started
 
 To get started with Sementra on the Pterodactyl panel, follow these steps:
